@@ -1,2 +1,2 @@
 # Miscellaneous
-This contains random stuff
+This contains random funcitons I tried to make
